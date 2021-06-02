@@ -1,0 +1,4 @@
+﻿CREATE TABLE Seat(
+[Id] INT IDENTITY (1,1) PRIMARY KEY,
+[Koht] VARCHAR (50)
+);
